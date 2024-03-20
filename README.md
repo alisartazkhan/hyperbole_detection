@@ -29,7 +29,7 @@ Brief description or introduction of the project.
 ## References
 
 HYPO is described in the following paper:
-@InProceedings{troiano2018computational,
+* @InProceedings{troiano2018computational,
 title={A Computational Exploration of Exaggeration},
 author={Troiano, Enrica and Strapparava, Carlo and {"O}zbal, G{"o}zde and Tekiroglu, Serra Sinem},
 booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing},
