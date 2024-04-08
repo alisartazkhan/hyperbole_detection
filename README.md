@@ -25,6 +25,7 @@ Brief description or introduction of the project.
 ## Conclusion
 
 * This code provides a simple yet effective way to classify hyperbolic statements using BERT-based models. You can use it as a starting point for building more advanced hyperbole detection systems or integrate it into your applications for identifying exaggerated language.
+* I am still working on this project to make improvements.
 
 ## References
 
