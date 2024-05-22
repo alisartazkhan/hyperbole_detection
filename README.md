@@ -1,5 +1,7 @@
 # BERT for Hyperbole Classification
 
+Link to paper: https://www.linkedin.com/in/ali-sartaz-khan-9334011a3/overlay/1714979247198/single-media-viewer/?profileId=ACoAAC-Ua_cB1HemnZ11ua_t4wpl1KdLHaiHgcQ
+
 Brief description or introduction of the project.
 
 ## How to use
