@@ -4,7 +4,6 @@ Brief description or introduction of the project.
 
 ## How to use
 
-* Setup Environment: Make sure you have installed all the dependencies mentioned above.
 * Dataset: Prepare your dataset in a format similar to HYPO.tsv, where each row contains a hyperbolic statement (HYPO) along with its corresponding paraphrases (PARAPHRASES) and minimal units corpus (MINIMAL UNITS CORPUS).
 * Training: Run the hyperbole_classification.py script to train the BERT model on your dataset. The script loads the pre-trained BERT model and fine-tunes it for hyperbole classification using the provided dataset. After training, the script evaluates the model on a test dataset and prints the accuracy.
 * Inference: You can use the trained model to classify new hyperbolic statements. Use the provided text variable in the script to input your text for classification. The model will output the probability of the input text being hyperbolic and whether it classifies it as hyperbole or not based on a predefined threshold.
